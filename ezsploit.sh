@@ -25,7 +25,7 @@ clear
 echo -e "\E[1;33m:::::::::::::: \e[97mMetasploit automation script \E[1;33m:::::::::::::::"
 echo -e "\e[97m                      ______
                    .-        -.
-                  /            \               by rand0m1ze
+                  /            \               by exploit747
      \e[94m* \e[97m                   \e[90m* \e[97m
                  |,  .-.  .-.  ,|        \e[32m* \e[97m
                  | )(_ /  \_ )( |
